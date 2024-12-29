@@ -1,6 +1,6 @@
 # Webhook Rat
 
-
+Galeri Rat kurulumu python
 
 # Termux Kurulum
 
