@@ -92,6 +92,4 @@ else:
     else:
         print(f"Hata: Webhook ip hedefe bağlanmadı. HTTP Durum Kodu: {response.status_code}")
 except requests.exceptions.RequestException as e:
-    print(f"Bir hata oluştu: {e}")k ip hedefe bağlanmadı. HTTP Durum Kodu: {response.status_code}")
-except requests.exceptions.RequestException as e:
     print(f"Bir hata oluştu: {e}")
